@@ -17,9 +17,10 @@ $(call inherit-product, device/xiaomi/fire/device.mk)
 
 PRODUCT_DEVICE := fire
 PRODUCT_NAME := twrp_fire
-PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := fire
-PRODUCT_MANUFACTURER := xiaomi
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Xiaomi Redmi 12
+PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_RELEASE_NAME := fire
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
